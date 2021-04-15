@@ -186,22 +186,6 @@ author_profile: true
             <div class="team boxed-grey text-center">
                 <div class="inner">
                     <div class="avatar">
-                    <a href="#">
-                        <img src="/images/teams/Sippo_Rossi.jpg" alt='Sippo Rossi' class="img-responsive img-circle table-bordered himg" />
-                        </a>
-                    </div>
-                    <h5>Sippo Rossi</h5>
-                    <p class="subtitle">PhD Student</p>
-                </div>
-                <span class="tooltiptext">Sippo Rossi<br/>PhD Student</span>
-            </div>
-        </div>
-    </div> 
-    <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
-        <div class="wow bounceInUp animated animated">
-            <div class="team boxed-grey text-center">
-                <div class="inner">
-                    <div class="avatar">
                     <a class="t-name" target="_blank" href="https://scholar.google.com/citations?user=zC39DhsAAAAJ&hl=en">
                         <img src="/images/teams/niels.jpeg" alt='Niels Buus Lassen' class="img-responsive img-circle table-bordered himg" />
                         </a>
@@ -389,7 +373,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Martin_Sebastian_Thoma.png" alt='Martin' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/default.png" alt='Martin' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Martin</h5>
@@ -405,7 +389,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Tim_Schurig.png" alt='Tim' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/default.png" alt='Tim' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Tim</h5>
@@ -421,7 +405,7 @@ author_profile: true
                 <div class="inner">
                     <div class="avatar">
                     <a href="#">
-                        <img src="/images/teams/Toronto.png" alt='Henry' class="img-responsive img-circle table-bordered himg" />
+                        <img src="/images/teams/default.png" alt='Henry' class="img-responsive img-circle table-bordered himg" />
                         </a>
                     </div>
                     <h5>Henry</h5>
