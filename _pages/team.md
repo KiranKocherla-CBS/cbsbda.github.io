@@ -196,7 +196,7 @@ author_profile: true
                 <span class="tooltiptext">Sippo Rossi<br/>PhD Student</span>
             </div>
         </div>
-    </div> 
+    </div>
     <div class="col-xs-12 col-sm-3 col-md-3 xs-mb-1">
         <div class="wow bounceInUp animated animated">
             <div class="team boxed-grey text-center">
