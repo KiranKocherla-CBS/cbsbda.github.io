@@ -411,7 +411,7 @@ author_profile: true
                     <h5>Tim</h5>
                     <p class="subtitle">Research Assistant</p>
                 </div>
-                <span class="tooltiptext">Tim<br/>Research Assistant </span>
+                <span class="tooltiptext">Tim<br/>Research Assistant</span>
             </div>
         </div>
     </div>
