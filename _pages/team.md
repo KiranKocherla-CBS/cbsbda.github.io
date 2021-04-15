@@ -562,7 +562,7 @@ author_profile: true
                         </a>
                     </div>
                     <h5>Klaus Langenheldt</h5>
-                    <p class="subtitle">Research Assistant</p>
+                    <p class="subtitle">Research Assistant-2</p>
                 </div>
                 <span class="tooltiptext">Klaus Langenheldt<br/>Research Assistant </span>
             </div>
